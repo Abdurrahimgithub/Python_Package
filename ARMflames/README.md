@@ -15,4 +15,4 @@ ___
 
 ### Image:
 
-![Poster](https://github.com/Abdurrahimgithub/Python_Package/blob/main/ARMflames/ARMflames/static/instraPost.png)https://github.com/Abdurrahimgithub/Python_Package/blob/main/ARMflames/ARMflames/static/instraPost.png)
+![The San Juan Mountains are beautiful!](https://github.com/Abdurrahimgithub/Python_Package/blob/main/ARMflames/ARMflames/static/GitPost.png "San Juan Mountains")
