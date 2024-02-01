@@ -1,18 +1,54 @@
-# ARMflames
-___
+<h1><center><b>ARMflames</b></center><h1>
+
+<img title="ARMflames Fun" alt="Poster" src="https://raw.githubusercontent.com/Abdurrahimgithub/Python_Package/main/ARMflames/ARMflames/static/GitPost.png">
 
 ## Package Name:
 - ARMflames
 
-## Author 
+</br>
+
+
+### Programmer 
 - Abdurrahim
 
-## Package install comment
 
-- type in cmd(command prompt)
+</br>
 
-  - > Python -m pip install ARMflames
 
-### Image:
+### Package install comment
 
-<img title="ARMflames Fun" alt="Poster" src="https://github.com/Abdurrahimgithub/Python_Package/blob/main/ARMflames/ARMflames/static/GitPost.png">
+- type in cmd  <i>(command prompt)</i>
+
+   > <b>Python -m pip install ARMflames</b>
+
+</br>
+
+
+#### How To Execute: <i>(after installation)</i>
+
+- type in cmd 
+
+   > <b>ARMflames GE</b>
+
+- type in cmd 
+
+   > <b>ARMflames SE (Name) (Name)</b>
+
+- type in cmd
+
+   > <b>ARMflames UI</b>
+
+</br>
+</br>
+
+---
+
+#### Result:
+<center>
+<img title="ARMflames Fun" alt="Poster" src="https://raw.githubusercontent.com/Abdurrahimgithub/Python_Package/main/ARMflames/ARMflames/static/GUI.JPG">
+<br>
+<br>
+<br>
+<img title="ARMflames Fun" alt="Poster" src="https://raw.githubusercontent.com/Abdurrahimgithub/Python_Package/main/ARMflames/ARMflames/static/Result.JPG">
+
+---
